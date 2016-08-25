@@ -1,5 +1,5 @@
 # HPBM
-Software for the Hydro-Pck Bluetooth Monitor.
+Software for the Hydro-Pack Bluetooth Monitor.
 
 The device is based on an [Adafruit Bluefruit LE Micro](https://learn.adafruit.com/bluefruit-le-micro-atmega32u4-microcontroller-usb-bluetooth-le-in-one/overview) and uses a [flow meter from Seeed](http://www.seeedstudio.com/depot/G14-Water-Flow-Sensor-p-1345.html). 
 
