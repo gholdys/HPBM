@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">HPBM-App</string>
+
+    <!-- Menu -->
+    <string name="action_settings">Settings</string>
+
+    <!-- Consumption Monitor Activity -->
+    <string name="title_activity_consumption_monitor">ConsumptionMonitorActivity</string>
+
+    <!-- Bluetooth Adapter -->
+    <string name="dialog_error_no_ble">Bluetooth Low Energy not supported</string>
+    <string name="dialog_error_no_bluetooth">Bluetooth not available</string>
+
+    <!-- Location -->
+    <string name="dialog_error_nolocationservices_requiredforscan_marshmallow">From version 6.0, Android requires that Location Services are enabled to scan bluetooth peripherals.\nYou will now be redirected to the settings panel.\nPlease enable Location Services and return here.</string>
+    <string name="location_access_request_title">This application needs location access</string>
+    <string name="location_access_request_message">Please grant location access so this application can detect Bluetooth devices.</string>
+</resources>

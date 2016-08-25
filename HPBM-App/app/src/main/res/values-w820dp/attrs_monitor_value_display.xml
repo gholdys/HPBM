@@ -1,0 +1,6 @@
+<resources>
+    <declare-styleable name="MonitorValueDisplay">
+        <attr name="label" format="string" />
+        <attr name="format" format="string" />
+    </declare-styleable>
+</resources>
